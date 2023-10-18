@@ -7,4 +7,3 @@ mouse,
 wollllllf, 
 snake
 lion
-zyz
