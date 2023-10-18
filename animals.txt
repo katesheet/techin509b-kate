@@ -1,1 +1,1 @@
-dog, cat, horse, mouse, wolf
+dog, cat, donkey, dragon, horse, mouse, wolf, snake
